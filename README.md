@@ -241,6 +241,6 @@
 ## 최종발표자료
 [최종발표자료(pdf링크)](https://github.com/JaeMinPark0224/WeCoWork/blob/main/WeCoWork_%EC%B5%9C%EC%A2%85.pdf)
 ## 히스토리
-[최종발표자료(pdf링크)](https://github.com/7uckydog/WCW/blob/353d11525d05e527d6b4556b40ec77e58b208345/WeCoWork_%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC.xlsx)
+[히스토리자료(xlsx링크)](https://github.com/7uckydog/WCW/blob/353d11525d05e527d6b4556b40ec77e58b208345/WeCoWork_%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC.xlsx)
 ## 오류케이스
-[최종발표자료(pdf링크)](https://github.com/7uckydog/WCW/blob/353d11525d05e527d6b4556b40ec77e58b208345/WECOWORK_%EC%98%A4%EB%A5%98%EC%BC%80%EC%9D%B4%EC%8A%A4.xlsx)
+[오류케이스자료(xlsx링크)](https://github.com/7uckydog/WCW/blob/353d11525d05e527d6b4556b40ec77e58b208345/WECOWORK_%EC%98%A4%EB%A5%98%EC%BC%80%EC%9D%B4%EC%8A%A4.xlsx)
